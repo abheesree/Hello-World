@@ -8,4 +8,3 @@
 
 
 echo 'good day';
-echo 'ok';
